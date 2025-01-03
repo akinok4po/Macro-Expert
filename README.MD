@@ -20,11 +20,9 @@ No comparto el código directamente, pero aquí hay un ejemplo visual del result
 - [Gif/Video que muestre la macro en acción, sin revelar cómo está programada].  
 
 ## ¿Por qué elegirme?  
-- Más de [X] años de experiencia en automatización.  
+- Más de 2 años de experiencia en automatización.  
 - Soluciones seguras y adaptadas a tus necesidades.  
-- Soporte para ajustes y personalización.  
+- Soporte para ajustes y personalización. 
 
 ## Contáctame  
 ¿Interesado en automatizar tu proyecto? Escríbeme para más información:  
-- Email: [tuemail@example.com]  
-- GitHub: [github.com/TuUsuario]  
